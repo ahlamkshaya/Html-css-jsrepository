@@ -1,0 +1,53 @@
+ 
+#l1 
+{ 
+	margin: 0px 0px 0px 0px;
+	 
+}
+ 
+hr
+{
+	color: black;
+	margin: 0px 0px 0px 0px;
+	width: 100%;
+}
+ 
+.ptext{	  
+    font-family: serif;
+    font-size: 14px;
+    color: black; 
+    padding: 5px;
+    clear: both;
+    
+}
+ 
+.row
+{
+	width:100%;
+}
+.title
+{     
+	 font-family: Apple Chancery, cursive;
+ 	font-size: 24px;
+    color: black;   
+   	clear: both;
+   	padding: 10px;
+   	 
+    
+}
+.box{
+	
+	background-color: #EBEDEF; 
+	padding: 1px; 
+    margin: 15px;
+    border : 1px solid #512E5F;
+   
+}
+.box a{
+	
+	color: black;
+}
+.box a:hover{
+	
+	font-size: 1.2em;
+}
